@@ -15,25 +15,38 @@ At Auditing-Korner, we believe in:
 - **Ethical Practice**: Promoting responsible disclosure and ethical security testing
 - **Continuous Learning**: Staying at the forefront of emerging threats and defensive techniques
 
+## 🔧 Tool Categories
+
+Our tools span several key security assessment domains:
+
+### Reconnaissance & Enumeration
+- [**DNS-Recon-Framework**](https://github.com/Auditing-Korner/DNS-Recon-Framework): DNS reconnaissance with specialized tools for enumeration, detection of cloud providers, subdomain takeover vulnerabilities, and TLD discovery
+- [**AzureEnum**](https://github.com/Auditing-Korner/AzureEnum): Microsoft Azure environment enumeration using passive and active OSINT techniques
+
+### Cloud Security
+- [**RedCloud**](https://github.com/Auditing-Korner/RedCloud): Multi-Cloud Security Auditing Tool supporting assessment across major cloud providers
+- [**AzureEnum**](https://github.com/Auditing-Korner/AzureEnum): Specialized tool for Microsoft Azure environments
+
+### Web Application Security
+- [**Basic-Audit**](https://github.com/Auditing-Korner/Basic-Audit): HTML-based web application security assessment toolkit
+- [**Apache-Sling-Auditor**](https://github.com/Auditing-Korner/Apache-Sling-Auditor): Specialized tool for auditing Apache Sling instances
+
+### General Security Frameworks
+- [**RFS-Auditing**](https://github.com/Auditing-Korner/RFS-Auditing): Comprehensive security auditing toolkit developed by RFS
+
+All repositories are licensed under GNU General Public License v3.0, making them freely available for security professionals while ensuring derivative works remain open source.
+
 ## 📋 Our Repositories
 
-Our GitHub organization hosts a variety of specialized repositories:
+Our GitHub organization hosts a variety of specialized security auditing tools:
 
-### Security Frameworks
-- **AK-WebSec**: Advanced web application assessment framework
-- **Infra-Audit-Suite**: Enterprise infrastructure security evaluation methodology
-- **SmartContract-Audit-Kit**: Blockchain and smart contract security verification tools
-- **API-Guardian**: Comprehensive API security testing framework
-
-### Research Projects
-- **VulnLab**: Vulnerability research and proof-of-concept development
-- **ThreatModels**: Collection of threat modeling approaches for various technologies
-- **ZeroDay-Archive**: Documentation of significant vulnerabilities with detailed analysis
-
-### Community Resources
-- **Audit-Playbooks**: Step-by-step guides for different security assessment scenarios
-- **Training-Materials**: Educational resources for aspiring security auditors
-- **Industry-Standards**: Compilations of security compliance requirements and best practices
+### Security Auditing Tools
+- [**Basic-Audit**](https://github.com/Auditing-Korner/Basic-Audit): HTML-based security auditing toolkit (GNU GPL v3.0)
+- [**Apache-Sling-Auditor**](https://github.com/Auditing-Korner/Apache-Sling-Auditor): Python-based tool for auditing Apache Sling instances (GNU GPL v3.0)
+- [**RedCloud**](https://github.com/Auditing-Korner/RedCloud): Multi-Cloud Security Auditing Tool for comprehensive cloud environment assessment (GNU GPL v3.0)
+- [**DNS-Recon-Framework**](https://github.com/Auditing-Korner/DNS-Recon-Framework): A comprehensive DNS reconnaissance and security assessment framework with specialized tools for DNS enumeration, cloud provider detection, subdomain takeover detection, and TLD discovery
+- [**RFS-Auditing**](https://github.com/Auditing-Korner/RFS-Auditing): Python-based security auditing toolkit developed by RFS (GNU GPL v3.0)
+- [**AzureEnum**](https://github.com/Auditing-Korner/AzureEnum): A powerful, lightweight enumeration tool designed for security professionals and bug bounty hunters targeting Microsoft Azure environments, using OSINT techniques for passive and active reconnaissance
 
 ## 🚀 Getting Involved
 
