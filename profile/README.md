@@ -20,19 +20,31 @@ At Auditing-Korner, we believe in:
 Our tools span several key security assessment domains:
 
 ### Reconnaissance & Enumeration
+- SNMP
+- CAST
 - [**DNS-Recon-Framework**](https://github.com/Auditing-Korner/DNS-Recon-Framework): DNS reconnaissance with specialized tools for enumeration, detection of cloud providers, subdomain takeover vulnerabilities, and TLD discovery
 - [**AzureEnum**](https://github.com/Auditing-Korner/AzureEnum): Microsoft Azure environment enumeration using passive and active OSINT techniques
 
 ### Cloud Security
 - [**RedCloud**](https://github.com/Auditing-Korner/RedCloud): Multi-Cloud Security Auditing Tool supporting assessment across major cloud providers
 - [**AzureEnum**](https://github.com/Auditing-Korner/AzureEnum): Specialized tool for Microsoft Azure environments
+- AWS
+- GCP
+- Oracle
 
 ### Web Application Security
 - [**Basic-Audit**](https://github.com/Auditing-Korner/Basic-Audit): HTML-based web application security assessment toolkit
 - [**Apache-Sling-Auditor**](https://github.com/Auditing-Korner/Apache-Sling-Auditor): Specialized tool for auditing Apache Sling instances
+- NextJS Pentester
 
 ### General Security Frameworks
 - [**RFS-Auditing**](https://github.com/Auditing-Korner/RFS-Auditing): Comprehensive security auditing toolkit developed by RFS
+
+### Burpsuite Extensions
+
+- Keycloak Audior
+- NextJS Auditor
+- MCP Auditor
 
 All repositories are licensed under GNU General Public License v3.0, making them freely available for security professionals while ensuring derivative works remain open source.
 
