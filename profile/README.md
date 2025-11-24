@@ -19,6 +19,11 @@ At Auditing-Korner, we believe in:
 
 Our tools span several key security assessment domains:
 
+- NextJS Auditor
+- IIS and ASPx Auditor
+- Liferay auditor
+- 
+
 ### Reconnaissance & Enumeration
 - SNMP
 - CAST
@@ -43,7 +48,7 @@ Our tools span several key security assessment domains:
 ### Burpsuite Extensions
 
 - Keycloak Audior
-- NextJS Auditor
+- 
 - MCP Auditor
 
 All repositories are licensed under GNU General Public License v3.0, making them freely available for security professionals while ensuring derivative works remain open source.
